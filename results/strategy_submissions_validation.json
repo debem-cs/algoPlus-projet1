@@ -1,0 +1,18 @@
+{
+  "archives": [
+    "bfs.zip",
+    "duplicated_greedy.zip",
+    "joint_greedy.zip",
+    "local_search.zip",
+    "best_of_all.zip"
+  ],
+  "files_per_archive": [
+    "algorithm.py"
+  ],
+  "graphs_checked_per_archive": 9,
+  "entry_point_matches_expected_strategy": true,
+  "independent_dominance_checks": "passed",
+  "python_syntax_target": "3.7",
+  "root_submission_matches_best_of_all": true,
+  "previous_bfs_archive_preserved": true
+}

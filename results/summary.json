@@ -1,0 +1,33 @@
+{
+  "dataset": "synthetic NetworkX gnm_random_graph; not official Codabench instances",
+  "networkx_version": "2.6.3",
+  "seeds": 3,
+  "graphs": 39,
+  "max_seconds_per_graph": 0.10378562100049749,
+  "totals_by_seed": {
+    "0": {
+      "bfs": 8.758,
+      "duplicated_greedy": 6.488,
+      "joint_greedy": 4.3919999999999995,
+      "local_search": 4.3100000000000005
+    },
+    "1": {
+      "bfs": 8.436,
+      "duplicated_greedy": 6.232000000000001,
+      "joint_greedy": 4.06,
+      "local_search": 3.958
+    },
+    "2": {
+      "bfs": 8.602,
+      "duplicated_greedy": 6.184000000000001,
+      "joint_greedy": 4.016,
+      "local_search": 3.976
+    }
+  },
+  "mean_total_score": {
+    "bfs": 8.598666666666666,
+    "duplicated_greedy": 6.301333333333335,
+    "joint_greedy": 4.156,
+    "local_search": 4.081333333333333
+  }
+}

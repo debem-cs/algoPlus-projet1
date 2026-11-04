@@ -1,0 +1,21 @@
+{
+  "dataset": "held-out synthetic graphs; not official Codabench instances",
+  "graphs": 117,
+  "improved_graphs": 71,
+  "max_seconds_per_graph": 1.0830646510003135,
+  "families": {
+    "gnm": {
+      "v1_mean_total_13_graphs": 3.972666666666667,
+      "v2_mean_total_13_graphs": 3.808
+    },
+    "tree_plus_edges": {
+      "v1_mean_total_13_graphs": 3.255333333333333,
+      "v2_mean_total_13_graphs": 3.058
+    },
+    "cycle_plus_edges": {
+      "v1_mean_total_13_graphs": 2.808,
+      "v2_mean_total_13_graphs": 2.72
+    }
+  },
+  "timing_source": "Final standalone ZIP imported directly; all 117 graphs rechecked"
+}

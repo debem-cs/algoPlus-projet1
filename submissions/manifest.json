@@ -1,0 +1,37 @@
+{
+  "bfs.zip": {
+    "entry_point": "bfs_dominants",
+    "files": [
+      "algorithm.py"
+    ],
+    "sha256": "58279c94e3eee757223f5d5096087fa05cd2548e326ca086f1fad346c16eb854"
+  },
+  "duplicated_greedy.zip": {
+    "entry_point": "duplicated_greedy",
+    "files": [
+      "algorithm.py"
+    ],
+    "sha256": "a92d8f7d58a41a9c39ce26407583a9ece089c445f3e7df1c0a02896869ff9fde"
+  },
+  "joint_greedy.zip": {
+    "entry_point": "joint_greedy",
+    "files": [
+      "algorithm.py"
+    ],
+    "sha256": "06b0edc0e6b7c65c45aa6edee228f057c1328922bd8788116e8c5ed519d66101"
+  },
+  "local_search.zip": {
+    "entry_point": "local_search",
+    "files": [
+      "algorithm.py"
+    ],
+    "sha256": "5d015ab370c9db3c0e5cae599f2c519c564ca9180ca9c9bec8c06160278fd4ed"
+  },
+  "best_of_all.zip": {
+    "entry_point": "dominant",
+    "files": [
+      "algorithm.py"
+    ],
+    "sha256": "489a0984696b93f78e2d0961284310d62f05ab608db7b34fb2bd3b96adde6e64"
+  }
+}

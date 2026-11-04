@@ -1,0 +1,20 @@
+{
+  "archive": "submission.zip",
+  "version": "improved_search_v2",
+  "also_available_at": "submissions/improved_search_v2.zip",
+  "files": [
+    "algorithm.py"
+  ],
+  "sha256": "d24f5e0d9d514e1b26ada64db73d081ef8f3ccac57219e6375b178121a2975dc",
+  "tests_passed": 14,
+  "atlas_graphs": 1253,
+  "exact_repair_cross_checked_on_all_graphs_up_to_vertices": 5,
+  "python_syntax_target": "3.7",
+  "local_python_version": "3.14.4",
+  "local_networkx_version": "2.6.3",
+  "zip_smoke_test_graphs": 8,
+  "zip_benchmark_graphs": 117,
+  "zip_max_seconds_per_graph": 1.0830646510003135,
+  "baseline_archives_unchanged": true,
+  "official_v2_score": null
+}

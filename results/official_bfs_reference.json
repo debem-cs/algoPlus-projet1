@@ -1,0 +1,24 @@
+{
+  "source": "Leaderboard row provided by the user in this chat",
+  "participant": "debem",
+  "submission_id": 1032586,
+  "displayed_date": "2026-11-04 11:20",
+  "rank": 128,
+  "total_score": 7.89,
+  "strategy": "Original BFS parity submission",
+  "graphs": {
+    "50_50": 0.52,
+    "50_250": 0.74,
+    "50_500": 0.62,
+    "50_1000": 0.86,
+    "100_100": 0.5,
+    "100_250": 0.51,
+    "100_500": 0.7,
+    "100_1000": 0.76,
+    "250_250": 0.5,
+    "250_500": 0.52,
+    "250_1000": 0.64,
+    "500_500": 0.5,
+    "500_1000": 0.51
+  }
+}

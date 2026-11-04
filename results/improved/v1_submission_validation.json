@@ -1,0 +1,16 @@
+{
+  "archive": "submissions/archive_v1/best_of_all.zip",
+  "files": [
+    "algorithm.py"
+  ],
+  "sha256": "489a0984696b93f78e2d0961284310d62f05ab608db7b34fb2bd3b96adde6e64",
+  "python_syntax_target": "3.7",
+  "local_python_version": "3.14.4",
+  "local_networkx_version": "2.6.3",
+  "tests_passed": 9,
+  "atlas_graphs": 1253,
+  "synthetic_graphs": 39,
+  "zip_import_smoke_test": "passed",
+  "previous_bfs_archive": "submissions/bfs_original.zip",
+  "strategy_archives_validation": "strategy_submissions_validation.json"
+}

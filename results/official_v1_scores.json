@@ -1,0 +1,26 @@
+{
+  "source": "Screenshot provided by the user",
+  "leaderboard_best_reported": 2.62,
+  "submissions": [
+    {
+      "id": 1032671,
+      "file": "duplicated_greedy.zip",
+      "score": 5.91
+    },
+    {
+      "id": 1032670,
+      "file": "joint_greedy.zip",
+      "score": 3.09
+    },
+    {
+      "id": 1032669,
+      "file": "local_search.zip",
+      "score": 2.96
+    },
+    {
+      "id": 1032586,
+      "file": "submission.zip",
+      "score": 7.89
+    }
+  ]
+}

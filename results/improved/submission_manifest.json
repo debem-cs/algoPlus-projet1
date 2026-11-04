@@ -1,0 +1,10 @@
+{
+  "archive": "improved_search_v2.zip",
+  "files": [
+    "algorithm.py"
+  ],
+  "sha256": "d24f5e0d9d514e1b26ada64db73d081ef8f3ccac57219e6375b178121a2975dc",
+  "python_syntax_target": "3.7",
+  "external_imports": [],
+  "root_submission_matches_v2": true
+}
